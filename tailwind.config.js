@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#8b5cf6', // Twój własny kolor z zadania dodatkowego
+        primary: '#8b5cf6', 
       }
     },
   },
